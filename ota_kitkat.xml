@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+        <Stable>
+        <u8833>
+                        <Filename>Slim-u8833-4.4.4.build.9.0.20141229-CHIL360.zip</Filename>
+                        <DownloadUrl>https://googledrive.com/host/0B_WlcjMrZFTOYmEzOWZjM0U3c3M/Slim-u8833-4.4.4.build.9.0.20141229-CHIL360.zip</DownloadUrl>
+        </u8833>
+        <u8951>
+                        <Filename>Slim-u8951-4.4.4.build.9.0.20141229-CHIL360.zip</Filename>
+                        <DownloadUrl>https://googledrive.com/host/0B_WlcjMrZFTON2VFbnd1aE1EZEU/Slim-u8951-4.4.4.build.9.0.20141229-CHIL360.zip</DownloadUrl>
+        </u8951>
+        <u8825>
+                        <Filename>Slim-u8825-4.4.4.build.9.0.20141229-CHIL360.zip</Filename>
+                        <DownloadUrl>https://googledrive.com/host/0B_WlcjMrZFTOWkIwa0N3dVdjMFE/Slim-u8825-4.4.4.build.9.0.20141229-CHIL360.zip</DownloadUrl>
+        </u8825>
+        </Stable>
+</SlimOTA>
